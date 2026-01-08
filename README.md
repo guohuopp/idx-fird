@@ -7,7 +7,7 @@
 在终端执行以下命令即可一键安装：
 
 ```bash
-wget https://raw.githubusercontent.com/guohuobb/idx-free-xin/main/install.sh
+wget https://raw.githubusercontent.com/guohuopp/idx-fird/main/install.sh
 bash install.sh
 
 
